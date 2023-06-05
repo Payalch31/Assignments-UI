@@ -1,0 +1,62 @@
+body{
+background-attachment: fixed;
+background-color: aquamarine;
+}
+img
+{
+border-radius: 50%;
+height: 150px;
+width: 150px;
+display:flex;
+}
+.class1
+{
+    background-color: rgb(113, 207, 218);
+      height:200px;
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+}
+
+.class2
+{ 
+    background-color: rgb(174, 136, 196);
+    background-color: rgb(198, 137, 223);
+    height: 100px;
+    width: 500px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.class3
+{
+    background-color: rgb(100, 196, 164);
+}
+.class4
+{
+    background-color: azure;
+    height: 400px;
+    width: 500px;
+    align-items:center;
+    display:grid;
+    grid-template-columns: auto;
+    justify-content: space-between;
+}
+.class5
+{
+    display: grid;
+    background-color: rgb(209, 138, 138);
+    grid-template-columns: 100px 300px;
+    justify-content: space-between;
+   align-items: center;
+}
+
+.class6
+{
+    background-image: url("ele.jpg");
+    display: grid;
+    display: grid;
+    grid-auto-flow: column;
+    gap: 10px;
+
+}
