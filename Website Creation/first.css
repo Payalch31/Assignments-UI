@@ -2,7 +2,7 @@ body
 {
 background-image: linear-gradient(red purple);
 background-color: aquamarine;
-background-image: url('f1.jpg');
+/* background-image: url('f1.jpg');  */
 background-attachment: scroll;
 height: 100vh;
 }
